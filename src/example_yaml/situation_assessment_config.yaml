@@ -1,0 +1,59 @@
+---
+situation_assessment:
+    #starting world state for the database
+    starting_world_state_file: /home/theworld/ros_workspaces/indigo_ws/src/scenarios/demo_observer/world_state.xml
+    ring_buffer_length: 10 #length used by the ring buffers
+    use_orientation: false #true if we are using the orientation of users when computing facts
+    #the following parameters set which entitities the system should track
+    track_robot: true 
+    track_agents: true
+    track_objects: true
+    track_groups: false
+    #Each bridge should say which entities it is tracking. All tracked entities need to 
+    #assigned to a bridge
+    tf_bridge:  
+        track_robot: true
+        track_agents: true
+        track_objects: true
+        track_groups: false
+    human_names: #known humans
+        - human1
+    body_parts: #body parts tracked
+        - head
+        - hand
+        - torso
+    object_names: #known objects
+        - waterbottle
+        - teabottle
+        - mug
+        - keys
+        - book1
+        - book2
+        - table
+        - shelf1
+        - shelf2
+        - sofa
+        - outside
+    locations: #known locations
+        - outside
+        - table
+        - shelf1
+        - shelf2
+        - sofa
+        - this
+    #depth of the locations. Locations can be inside other locations. External locations
+    #have a lower depth than internal
+    locations_depth: 
+        livingroom: 1
+        outside: 1
+        bathroom: 1
+        table: 2
+        shelf1: 2
+        shelf2: 2
+        shelf3: 2
+        sofa: 2
+        sidetable: 2
+        this: 0
+    simulation: true #true when running in simulation
+    robot_name: PR2_ROBOT #name of the robot
+

@@ -1,0 +1,12419 @@
+In state:
+agent_isAt table
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_place_object_placement
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+In state:
+agent_isAt table
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+In state:
+agent_isAt table
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+In state:
+agent_isAt table
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+In state:
+agent_isAt table
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+In state:
+agent_isAt table
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+In state:
+agent_isAt table
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+In state:
+agent_isAt table
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+In state:
+agent_isAt table
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+In state:
+agent_isAt table
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+In state:
+agent_isAt table
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+In state:
+agent_isAt sidetable
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+In state:
+agent_isAt sidetable
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+In state:
+agent_isAt sidetable
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+In state:
+agent_isAt sidetable
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+In state:
+agent_isAt sidetable
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+In state:
+agent_isAt sidetable
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+In state:
+agent_isAt sidetable
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+In state:
+agent_isAt sidetable
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+In state:
+agent_isAt sidetable
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+In state:
+agent_isAt sidetable
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+In state:
+agent_isAt sidetable
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+In state:
+agent_isAt bathroom
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+In state:
+agent_isAt bathroom
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+In state:
+agent_isAt bathroom
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+In state:
+agent_isAt bathroom
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+In state:
+agent_isAt bathroom
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+In state:
+agent_isAt bathroom
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+In state:
+agent_isAt bathroom
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+In state:
+agent_isAt bathroom
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+In state:
+agent_isAt bathroom
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+In state:
+agent_isAt bathroom
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+In state:
+agent_isAt bathroom
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+In state:
+agent_isAt outside
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+In state:
+agent_isAt outside
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+In state:
+agent_isAt outside
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+In state:
+agent_isAt outside
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+In state:
+agent_isAt outside
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+In state:
+agent_isAt outside
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+In state:
+agent_isAt outside
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+In state:
+agent_isAt outside
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+In state:
+agent_isAt outside
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+In state:
+agent_isAt outside
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+In state:
+agent_isAt outside
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+In state:
+agent_isAt shelf1
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+In state:
+agent_isAt shelf1
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+In state:
+agent_isAt shelf1
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+In state:
+agent_isAt shelf1
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+In state:
+agent_isAt shelf1
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+In state:
+agent_isAt shelf1
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+In state:
+agent_isAt shelf1
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+In state:
+agent_isAt shelf1
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+In state:
+agent_isAt shelf1
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+In state:
+agent_isAt shelf1
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+In state:
+agent_isAt shelf1
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+In state:
+agent_isAt shelf2
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+In state:
+agent_isAt shelf2
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+In state:
+agent_isAt shelf2
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+In state:
+agent_isAt shelf2
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+In state:
+agent_isAt shelf2
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+In state:
+agent_isAt shelf2
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+In state:
+agent_isAt shelf2
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+In state:
+agent_isAt shelf2
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+In state:
+agent_isAt shelf2
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+In state:
+agent_isAt shelf2
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+In state:
+agent_isAt shelf2
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+In state:
+agent_isAt shelf3
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+In state:
+agent_isAt shelf3
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+In state:
+agent_isAt shelf3
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+In state:
+agent_isAt shelf3
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+In state:
+agent_isAt shelf3
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+In state:
+agent_isAt shelf3
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+In state:
+agent_isAt shelf3
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+In state:
+agent_isAt shelf3
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+In state:
+agent_isAt shelf3
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+In state:
+agent_isAt shelf3
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+In state:
+agent_isAt shelf3
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+In state:
+agent_isAt sofa
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+In state:
+agent_isAt sofa
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+In state:
+agent_isAt sofa
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+In state:
+agent_isAt sofa
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+In state:
+agent_isAt sofa
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+In state:
+agent_isAt sofa
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+In state:
+agent_isAt sofa
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+In state:
+agent_isAt sofa
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+In state:
+agent_isAt sofa
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+In state:
+agent_isAt sofa
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+In state:
+agent_isAt sofa
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+In state:
+agent_isAt livingroom
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+In state:
+agent_isAt livingroom
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+In state:
+agent_isAt livingroom
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+In state:
+agent_isAt livingroom
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+In state:
+agent_isAt livingroom
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+In state:
+agent_isAt livingroom
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+In state:
+agent_isAt livingroom
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+In state:
+agent_isAt livingroom
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+In state:
+agent_isAt livingroom
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+In state:
+agent_isAt livingroom
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+In state:
+agent_isAt livingroom
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+In state:
+agent_isAt placement
+object_isAt table
+
+
+Executing agent_move_table
+Output is:
+agent_isAt table
+object_isAt table
+
+
+0
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt table
+
+
+11
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt table
+
+
+22
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt table
+
+
+33
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt table
+
+
+44
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt table
+
+
+55
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt table
+
+
+66
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt table
+
+
+77
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt table
+
+
+88
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt table
+
+
+99
+
+In state:
+agent_isAt placement
+object_isAt sidetable
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sidetable
+
+
+1
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sidetable
+
+
+12
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sidetable
+
+
+23
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sidetable
+
+
+34
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sidetable
+
+
+45
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sidetable
+
+
+56
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sidetable
+
+
+67
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sidetable
+
+
+78
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sidetable
+
+
+89
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sidetable
+
+
+100
+
+In state:
+agent_isAt placement
+object_isAt bathroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt bathroom
+
+
+2
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt bathroom
+
+
+13
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt bathroom
+
+
+24
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt bathroom
+
+
+35
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt bathroom
+
+
+46
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt bathroom
+
+
+57
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt bathroom
+
+
+68
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt bathroom
+
+
+79
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt bathroom
+
+
+90
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt bathroom
+
+
+101
+
+In state:
+agent_isAt placement
+object_isAt outside
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt outside
+
+
+3
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt outside
+
+
+14
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt outside
+
+
+25
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt outside
+
+
+36
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt outside
+
+
+47
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt outside
+
+
+58
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt outside
+
+
+69
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt outside
+
+
+80
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt outside
+
+
+91
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt outside
+
+
+102
+
+In state:
+agent_isAt placement
+object_isAt shelf1
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf1
+
+
+4
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf1
+
+
+15
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf1
+
+
+26
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf1
+
+
+37
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf1
+
+
+48
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf1
+
+
+59
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf1
+
+
+70
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf1
+
+
+81
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf1
+
+
+92
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf1
+
+
+103
+
+In state:
+agent_isAt placement
+object_isAt shelf2
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf2
+
+
+5
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf2
+
+
+16
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf2
+
+
+27
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf2
+
+
+38
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf2
+
+
+49
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf2
+
+
+60
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf2
+
+
+71
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf2
+
+
+82
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf2
+
+
+93
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf2
+
+
+104
+
+In state:
+agent_isAt placement
+object_isAt shelf3
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt shelf3
+
+
+6
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt shelf3
+
+
+17
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt shelf3
+
+
+28
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt shelf3
+
+
+39
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt shelf3
+
+
+50
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt shelf3
+
+
+61
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt shelf3
+
+
+72
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt shelf3
+
+
+83
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt shelf3
+
+
+94
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt shelf3
+
+
+105
+
+In state:
+agent_isAt placement
+object_isAt sofa
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt sofa
+
+
+7
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt sofa
+
+
+18
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt sofa
+
+
+29
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt sofa
+
+
+40
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt sofa
+
+
+51
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt sofa
+
+
+62
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt sofa
+
+
+73
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt sofa
+
+
+84
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt sofa
+
+
+95
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt sofa
+
+
+106
+
+In state:
+agent_isAt placement
+object_isAt livingroom
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt livingroom
+
+
+8
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt livingroom
+
+
+19
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt livingroom
+
+
+30
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt livingroom
+
+
+41
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt livingroom
+
+
+52
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt livingroom
+
+
+63
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt livingroom
+
+
+74
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt livingroom
+
+
+85
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt livingroom
+
+
+96
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt livingroom
+
+
+107
+
+In state:
+agent_isAt placement
+object_isAt agent
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt agent
+
+
+9
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt agent
+
+
+20
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt agent
+
+
+31
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt agent
+
+
+42
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt agent
+
+
+53
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt agent
+
+
+64
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt agent
+
+
+75
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt agent
+
+
+86
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt agent
+
+
+97
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+In state:
+agent_isAt placement
+object_isAt placement
+
+
+Executing agent_move_table
+Output is:
+...
+agent_isAt table
+object_isAt placement
+
+
+10
+
+Executing agent_move_sidetable
+Output is:
+...
+agent_isAt sidetable
+object_isAt placement
+
+
+21
+
+Executing agent_move_bathroom
+Output is:
+...
+agent_isAt bathroom
+object_isAt placement
+
+
+32
+
+Executing agent_move_outside
+Output is:
+...
+agent_isAt outside
+object_isAt placement
+
+
+43
+
+Executing agent_move_shelf1
+Output is:
+...
+agent_isAt shelf1
+object_isAt placement
+
+
+54
+
+Executing agent_move_shelf2
+Output is:
+...
+agent_isAt shelf2
+object_isAt placement
+
+
+65
+
+Executing agent_move_shelf3
+Output is:
+...
+agent_isAt shelf3
+object_isAt placement
+
+
+76
+
+Executing agent_move_sofa
+Output is:
+...
+agent_isAt sofa
+object_isAt placement
+
+
+87
+
+Executing agent_move_livingroom
+Output is:
+...
+agent_isAt livingroom
+object_isAt placement
+
+
+98
+
+Executing agent_move_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+
+Executing agent_pick_object
+Output is:
+...
+agent_isAt placement
+object_isAt agent
+
+
+108
+
+Executing agent_place_object_placement
+Output is:
+...
+agent_isAt placement
+object_isAt placement
+
+
+109
+

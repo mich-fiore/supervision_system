@@ -1,0 +1,11 @@
+<launch>
+    <rosparam command="load" file="$(find optitrack_tf)/optitrack_tf_parameters.yaml" />
+
+
+   <!--  add static transform publisher  -->
+    <!-- <node pkg="tf" type="static_transform_publisher" name="optitrack_link" args="0 0 0 0 0 0 /map /optitrack 100"/> -->
+
+   <include file="$(find optitrack_tf)/launch/optitrack.launch" />
+   <node pkg="optitrack_tf" type="optitrack_tf" name="optitrack_tf" output="screen"/>
+
+</launch>

@@ -1,0 +1,111 @@
+---
+situation_assessment:
+  action_monitoring: 
+    temporal_threshold: 3 #threshold to avoid that agent execute actions too often (avoid situations like continuous pick-drop)
+    use_database: true  #true if the database should be used to get human facts and not topics
+    trigger_distance: 0.5  #distance to trigger an action
+    actions_to_monitor: #list of actions to monitor
+      - pick    
+      - place
+      - fill
+    actions_details: #each action needs to have details
+      pick:
+        target: main_object  #which parameter of the action is the target (ex. main_object , support_object)
+        monitor_part: hand #part of the body used for monitoring 
+        orientation_part: torso  #part of the body use to check the orientation of the agent toward the object
+      place:
+        target: target
+        monitor_part: hand
+        orientation_part: torso
+      fill:
+        target: target
+        monitor_part: hand
+        orientation_part: torso
+    affordances: #list of action affordances for each known object
+      waterbottle:
+        - pick
+      teabottle:
+        - pick
+      mug:
+        - pick
+        - fill
+      keys:
+        - pick
+      remote:
+        - pick
+      book1:
+        - pick
+      book2:
+        - pick
+      book3:
+        - pick
+      table:
+        - place
+      shelf1:
+        - place
+      shelf2:
+        - place
+      shelf3:
+        - place
+      sidetable:
+        - place
+  intention_recognition:
+    bn_loops: 0   #how many loops should be done by the BN algorithm. 0 means exact inference
+    intention_list: #list of known intentions
+      - drink_water
+      - drink_tea
+      - go_out
+      - read_book
+      - watch_tv
+      - clean_books
+    contexts: #list of known contexts
+      - hot_day
+      - cold_day
+      - time_to_leave
+      - evening
+      - sunday
+    intention_details: #each intention has details
+      drink_water:
+        #mdp_path is the path of an mdp
+        mdp_path: /home/theworld/ros_workspaces/indigo_ws/src/scenarios/demo_observer/mdp_models/drink_water
+        linked_contexts: #contexts that influence this intention
+          - hot_day
+        context_probabilities: #probabilities of these influences
+          hot_day: 0.7
+      drink_tea:
+        mdp_path: /home/theworld/ros_workspaces/indigo_ws/src/scenarios/demo_observer/mdp_models/drink_tea
+        linked_contexts:
+          - cold_day
+        context_probabilities:
+          - cold_day: 0.7
+      go_out:
+        mdp_path: /home/theworld/ros_workspaces/indigo_ws/src/scenarios/demo_observer/mdp_models/go_out
+        linked_contexts:
+          - time_to_leave
+        context_probabilities:
+          - time_to_leave: 0.7
+      read_book:
+        mdp_path: /home/theworld/ros_workspaces/indigo_ws/src/scenarios/demo_observer/mdp_models/read_book
+        linked_contexts:
+          - evening
+        context_probabilities:
+          - evening: 0.7
+      watch_tv:
+        mdp_path: /home/theworld/ros_workspaces/indigo_ws/src/scenarios/demo_observer/mdp_models/watch_tv
+        linked_contexts:
+          - sunday
+        context_probabilities:
+          - sunday: 0.7  
+      clean_books:
+        mdp_path: /home/theworld/ros_workspaces/indigo_ws/src/scenarios/demo_observer/mdp_models/clean_books
+        linked_contexts:
+          - sunday
+        context_probabilities:
+          - sunday: 0.7
+    distance_threshold: #threshold used for distance
+      - 0.8  #under this the distance is reach
+      - 1.5 #under this the distance is close
+      - 3   #under this the distance is medium
+      - 5   #under this the distance is far. Above this OutOfRange
+
+

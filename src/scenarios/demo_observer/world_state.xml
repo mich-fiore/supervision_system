@@ -1,0 +1,43 @@
+<xml>
+	<!-- <Fact model='PR2_ROBOT' subject='human1' predicate='isInArea' value='livingroom'/>  -->
+	<!-- <Fact model='PR2_ROBOT' subject='mug' predicate='isInArea' value=<!-- ' -->sidetable'/>  -->
+	<!-- <Fact model='PR2_ROBOT' subject='waterbottle' predicate='isInArea' value='shelf1'/>  -->
+	<!-- <Fact model='PR2_ROBOT' subject='teabottle' predicate='isInArea' value='shelf2'/>  -->
+	<Fact model='PR2_ROBOT' subject='teabottle' predicate='capacity' value='1'/> 
+	<Fact model='PR2_ROBOT' subject='waterbottle' predicate='capacity' value='1'/> 
+	<Fact model='PR2_ROBOT' subject='waterbottle' predicate='type' value='bottle'/> 
+	<Fact model='PR2_ROBOT' subject='teabottle' predicate='type' value='bottle'/> 
+	<Fact model='PR2_ROBOT' subject='mug' predicate='capacity' value='0'/> 
+	<Fact model='PR2_ROBOT' subject='human1' predicate='hasDrunk' value='0'/> 
+	<Fact model='PR2_ROBOT' subject='mug' predicate='contains' value='nothing'/> 
+	<Fact model='PR2_ROBOT' subject='human1' predicate='hot_day' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human1' predicate='cold_day' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human1' predicate='evening' value='t'/> 
+	<Fact model='PR2_ROBOT' subject='human1' predicate='sunday' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human1' predicate='time_to_leave' value='f'/>
+	<!-- <Fact model='PR2_ROBOT' subject='human1' predicate='has' value='mug'/> -->
+
+	<Fact model='PR2_ROBOT' subject='human2' predicate='hasDrunk' value='0'/> 
+	<Fact model='PR2_ROBOT' subject='human2' predicate='hot_day' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human2' predicate='cold_day' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human2' predicate='hot_day' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human2' predicate='cold_day' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human2' predicate='evening' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human2' predicate='sunday' value='f'/> 
+	<Fact model='PR2_ROBOT' subject='human2' predicate='time_to_leave' value='f'/> 
+<!-- 	<Fact model='PR2_ROBOT' subject='livingroom' predicate='connected' value='table'/> 
+	<Fact model='PR2_ROBOT' subject='livingroom' predicate='connected' value='sidetable'/> 
+	<Fact model='PR2_ROBOT' subject='livingroom' predicate='connected' value='shelf1'/> 
+	<Fact model='PR2_ROBOT' subject='livingroom' predicate='connected' value='shelf2'/> 
+	<Fact model='PR2_ROBOT' subject='livingroom' predicate='connected' value='shelf3'/> 
+	<Fact model='PR2_ROBOT' subject='livingroom' predicate='connected' value='bathroom'/> 
+	<Fact model='PR2_ROBOT' subject='livingroom' predicate='connected' value='outside'/> 	
+
+	<Fact model='PR2_ROBOT' subject='table' predicate='connected' value='livingroom'/> 
+	<Fact model='PR2_ROBOT' subject='sidetable' predicate='connected' value='livingroom'/> 
+	<Fact model='PR2_ROBOT' subject='shelf1' predicate='connected' value='livingroom'/> 
+	<Fact model='PR2_ROBOT' subject='shelf2' predicate='connected' value='livingroom'/> 
+	<Fact model='PR2_ROBOT' subject='shelf3' predicate='connected' value='livingroom'/> 
+	<Fact model='PR2_ROBOT' subject='bathroom' predicate='connected' value='livingroom'/> 
+	<Fact model='PR2_ROBOT' subject='outside' predicate='connected' value='livingroom'/> --> 
+</xml>

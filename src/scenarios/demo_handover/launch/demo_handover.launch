@@ -1,0 +1,11 @@
+<launch>
+<rosparam command="load" file="$(find demo_handover)/demo_handover_parameters.yaml" />
+<rosparam command="load" file="$(find demo_handover)/situation_assessment_parameters.yaml" />
+<!-- <include file="$(find maps)/map.launch" /> -->
+<include file="$(find simple_agent_monitor)/launch/simple_agent_monitor.launch" />
+
+<node name="handover_pomdp" pkg="appl" type="controlpipe" output="screen" >
+		<param name="problem_name" value="handover" />
+</node>
+
+</launch>

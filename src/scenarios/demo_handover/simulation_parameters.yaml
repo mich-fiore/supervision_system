@@ -1,0 +1,29 @@
+---
+simulation:
+  simulated_entities:
+    - human1_hand
+    - human1_torso
+    - human1_head
+    # - base_link
+  starting_position:
+    human1_torso:
+      x: 0
+      y: 0
+      z: 0
+    human1_head:
+      x: 0
+      y: 0
+      z: 0
+    human1_hand:
+      x: 0
+      y: 0
+      z: 0
+    base_link:
+      x: 0
+      y: 0
+      z: 0
+  movable:
+    human1_head: true
+    human1_hand: true
+    human1_torso: true
+    base_link: true

@@ -1,0 +1,563 @@
+agent_go_out
+variables
+agent_isAt
+table outside shelf1 shelf2 sofa 
+agent
+keys_isAt
+table outside shelf1 shelf2 sofa agent 
+notpar
+parameter
+agent agent_isAt 
+parameter action place
+
+starting states
+0 4 3 2 1 5 24 28 27 26 25 29 18 22 21 20 19 23 12 16 15 14 13 17 6 10 9 8 7 
+goal states
+11 
+abstract states
+agent_isAt
+human1 other_agent human2 other_agent 
+actions
+agent_move_table agent_move_outside agent_move_shelf1 agent_move_shelf2 agent_move_sofa agent_pick_keys 
+transition
+0 agent_move_outside
+6 1 
+0 agent_move_shelf1
+12 1 
+0 agent_move_shelf2
+18 1 
+0 agent_move_sofa
+24 1 
+0 agent_move_table
+
+0 agent_pick_keys
+5 1 
+1 agent_move_outside
+7 1 
+1 agent_move_shelf1
+13 1 
+1 agent_move_shelf2
+19 1 
+1 agent_move_sofa
+25 1 
+1 agent_move_table
+
+1 agent_pick_keys
+1 1 
+2 agent_move_outside
+8 1 
+2 agent_move_shelf1
+14 1 
+2 agent_move_shelf2
+20 1 
+2 agent_move_sofa
+26 1 
+2 agent_move_table
+
+2 agent_pick_keys
+2 1 
+3 agent_move_outside
+9 1 
+3 agent_move_shelf1
+15 1 
+3 agent_move_shelf2
+21 1 
+3 agent_move_sofa
+27 1 
+3 agent_move_table
+
+3 agent_pick_keys
+3 1 
+4 agent_move_outside
+10 1 
+4 agent_move_shelf1
+16 1 
+4 agent_move_shelf2
+22 1 
+4 agent_move_sofa
+28 1 
+4 agent_move_table
+
+4 agent_pick_keys
+4 1 
+5 agent_move_outside
+11 1 
+5 agent_move_shelf1
+17 1 
+5 agent_move_shelf2
+23 1 
+5 agent_move_sofa
+29 1 
+5 agent_move_table
+
+5 agent_pick_keys
+
+6 agent_move_outside
+
+6 agent_move_shelf1
+
+6 agent_move_shelf2
+
+6 agent_move_sofa
+
+6 agent_move_table
+0 1 
+6 agent_pick_keys
+6 1 
+7 agent_move_outside
+
+7 agent_move_shelf1
+
+7 agent_move_shelf2
+
+7 agent_move_sofa
+
+7 agent_move_table
+1 1 
+7 agent_pick_keys
+11 1 
+8 agent_move_outside
+
+8 agent_move_shelf1
+
+8 agent_move_shelf2
+
+8 agent_move_sofa
+
+8 agent_move_table
+2 1 
+8 agent_pick_keys
+8 1 
+9 agent_move_outside
+
+9 agent_move_shelf1
+
+9 agent_move_shelf2
+
+9 agent_move_sofa
+
+9 agent_move_table
+3 1 
+9 agent_pick_keys
+9 1 
+10 agent_move_outside
+
+10 agent_move_shelf1
+
+10 agent_move_shelf2
+
+10 agent_move_sofa
+
+10 agent_move_table
+4 1 
+10 agent_pick_keys
+10 1 
+11 agent_move_outside
+
+11 agent_move_shelf1
+
+11 agent_move_shelf2
+
+11 agent_move_sofa
+
+11 agent_move_table
+5 1 
+11 agent_pick_keys
+
+12 agent_move_outside
+
+12 agent_move_shelf1
+
+12 agent_move_shelf2
+
+12 agent_move_sofa
+
+12 agent_move_table
+0 1 
+12 agent_pick_keys
+12 1 
+13 agent_move_outside
+
+13 agent_move_shelf1
+
+13 agent_move_shelf2
+
+13 agent_move_sofa
+
+13 agent_move_table
+1 1 
+13 agent_pick_keys
+13 1 
+14 agent_move_outside
+
+14 agent_move_shelf1
+
+14 agent_move_shelf2
+
+14 agent_move_sofa
+
+14 agent_move_table
+2 1 
+14 agent_pick_keys
+17 1 
+15 agent_move_outside
+
+15 agent_move_shelf1
+
+15 agent_move_shelf2
+
+15 agent_move_sofa
+
+15 agent_move_table
+3 1 
+15 agent_pick_keys
+15 1 
+16 agent_move_outside
+
+16 agent_move_shelf1
+
+16 agent_move_shelf2
+
+16 agent_move_sofa
+
+16 agent_move_table
+4 1 
+16 agent_pick_keys
+16 1 
+17 agent_move_outside
+
+17 agent_move_shelf1
+
+17 agent_move_shelf2
+
+17 agent_move_sofa
+
+17 agent_move_table
+5 1 
+17 agent_pick_keys
+
+18 agent_move_outside
+
+18 agent_move_shelf1
+
+18 agent_move_shelf2
+
+18 agent_move_sofa
+
+18 agent_move_table
+0 1 
+18 agent_pick_keys
+18 1 
+19 agent_move_outside
+
+19 agent_move_shelf1
+
+19 agent_move_shelf2
+
+19 agent_move_sofa
+
+19 agent_move_table
+1 1 
+19 agent_pick_keys
+19 1 
+20 agent_move_outside
+
+20 agent_move_shelf1
+
+20 agent_move_shelf2
+
+20 agent_move_sofa
+
+20 agent_move_table
+2 1 
+20 agent_pick_keys
+20 1 
+21 agent_move_outside
+
+21 agent_move_shelf1
+
+21 agent_move_shelf2
+
+21 agent_move_sofa
+
+21 agent_move_table
+3 1 
+21 agent_pick_keys
+23 1 
+22 agent_move_outside
+
+22 agent_move_shelf1
+
+22 agent_move_shelf2
+
+22 agent_move_sofa
+
+22 agent_move_table
+4 1 
+22 agent_pick_keys
+22 1 
+23 agent_move_outside
+
+23 agent_move_shelf1
+
+23 agent_move_shelf2
+
+23 agent_move_sofa
+
+23 agent_move_table
+5 1 
+23 agent_pick_keys
+
+24 agent_move_outside
+
+24 agent_move_shelf1
+
+24 agent_move_shelf2
+
+24 agent_move_sofa
+
+24 agent_move_table
+0 1 
+24 agent_pick_keys
+24 1 
+25 agent_move_outside
+
+25 agent_move_shelf1
+
+25 agent_move_shelf2
+
+25 agent_move_sofa
+
+25 agent_move_table
+1 1 
+25 agent_pick_keys
+25 1 
+26 agent_move_outside
+
+26 agent_move_shelf1
+
+26 agent_move_shelf2
+
+26 agent_move_sofa
+
+26 agent_move_table
+2 1 
+26 agent_pick_keys
+26 1 
+27 agent_move_outside
+
+27 agent_move_shelf1
+
+27 agent_move_shelf2
+
+27 agent_move_sofa
+
+27 agent_move_table
+3 1 
+27 agent_pick_keys
+27 1 
+28 agent_move_outside
+
+28 agent_move_shelf1
+
+28 agent_move_shelf2
+
+28 agent_move_sofa
+
+28 agent_move_table
+4 1 
+28 agent_pick_keys
+29 1 
+29 agent_move_outside
+
+29 agent_move_shelf1
+
+29 agent_move_shelf2
+
+29 agent_move_sofa
+
+29 agent_move_table
+5 1 
+29 agent_pick_keys
+
+reward
+0 agent_move_outside 1
+0 agent_move_shelf1 1
+0 agent_move_shelf2 1
+0 agent_move_sofa 1
+0 agent_move_table 1
+0 agent_pick_keys 1
+1 agent_move_outside 1
+1 agent_move_shelf1 1
+1 agent_move_shelf2 1
+1 agent_move_sofa 1
+1 agent_move_table 1
+1 agent_pick_keys 1
+2 agent_move_outside 1
+2 agent_move_shelf1 1
+2 agent_move_shelf2 1
+2 agent_move_sofa 1
+2 agent_move_table 1
+2 agent_pick_keys 1
+3 agent_move_outside 1
+3 agent_move_shelf1 1
+3 agent_move_shelf2 1
+3 agent_move_sofa 1
+3 agent_move_table 1
+3 agent_pick_keys 1
+4 agent_move_outside 1
+4 agent_move_shelf1 1
+4 agent_move_shelf2 1
+4 agent_move_sofa 1
+4 agent_move_table 1
+4 agent_pick_keys 1
+5 agent_move_outside 1
+5 agent_move_shelf1 1
+5 agent_move_shelf2 1
+5 agent_move_sofa 1
+5 agent_move_table 1
+5 agent_pick_keys 1
+6 agent_move_outside 1
+6 agent_move_shelf1 1
+6 agent_move_shelf2 1
+6 agent_move_sofa 1
+6 agent_move_table 1
+6 agent_pick_keys 1
+7 agent_move_outside 1
+7 agent_move_shelf1 1
+7 agent_move_shelf2 1
+7 agent_move_sofa 1
+7 agent_move_table 1
+7 agent_pick_keys 1
+8 agent_move_outside 1
+8 agent_move_shelf1 1
+8 agent_move_shelf2 1
+8 agent_move_sofa 1
+8 agent_move_table 1
+8 agent_pick_keys 1
+9 agent_move_outside 1
+9 agent_move_shelf1 1
+9 agent_move_shelf2 1
+9 agent_move_sofa 1
+9 agent_move_table 1
+9 agent_pick_keys 1
+10 agent_move_outside 1
+10 agent_move_shelf1 1
+10 agent_move_shelf2 1
+10 agent_move_sofa 1
+10 agent_move_table 1
+10 agent_pick_keys 1
+11 agent_move_outside 1
+11 agent_move_shelf1 1
+11 agent_move_shelf2 1
+11 agent_move_sofa 1
+11 agent_move_table 1
+11 agent_pick_keys 1
+12 agent_move_outside 1
+12 agent_move_shelf1 1
+12 agent_move_shelf2 1
+12 agent_move_sofa 1
+12 agent_move_table 1
+12 agent_pick_keys 1
+13 agent_move_outside 1
+13 agent_move_shelf1 1
+13 agent_move_shelf2 1
+13 agent_move_sofa 1
+13 agent_move_table 1
+13 agent_pick_keys 1
+14 agent_move_outside 1
+14 agent_move_shelf1 1
+14 agent_move_shelf2 1
+14 agent_move_sofa 1
+14 agent_move_table 1
+14 agent_pick_keys 1
+15 agent_move_outside 1
+15 agent_move_shelf1 1
+15 agent_move_shelf2 1
+15 agent_move_sofa 1
+15 agent_move_table 1
+15 agent_pick_keys 1
+16 agent_move_outside 1
+16 agent_move_shelf1 1
+16 agent_move_shelf2 1
+16 agent_move_sofa 1
+16 agent_move_table 1
+16 agent_pick_keys 1
+17 agent_move_outside 1
+17 agent_move_shelf1 1
+17 agent_move_shelf2 1
+17 agent_move_sofa 1
+17 agent_move_table 1
+17 agent_pick_keys 1
+18 agent_move_outside 1
+18 agent_move_shelf1 1
+18 agent_move_shelf2 1
+18 agent_move_sofa 1
+18 agent_move_table 1
+18 agent_pick_keys 1
+19 agent_move_outside 1
+19 agent_move_shelf1 1
+19 agent_move_shelf2 1
+19 agent_move_sofa 1
+19 agent_move_table 1
+19 agent_pick_keys 1
+20 agent_move_outside 1
+20 agent_move_shelf1 1
+20 agent_move_shelf2 1
+20 agent_move_sofa 1
+20 agent_move_table 1
+20 agent_pick_keys 1
+21 agent_move_outside 1
+21 agent_move_shelf1 1
+21 agent_move_shelf2 1
+21 agent_move_sofa 1
+21 agent_move_table 1
+21 agent_pick_keys 1
+22 agent_move_outside 1
+22 agent_move_shelf1 1
+22 agent_move_shelf2 1
+22 agent_move_sofa 1
+22 agent_move_table 1
+22 agent_pick_keys 1
+23 agent_move_outside 1
+23 agent_move_shelf1 1
+23 agent_move_shelf2 1
+23 agent_move_sofa 1
+23 agent_move_table 1
+23 agent_pick_keys 1
+24 agent_move_outside 1
+24 agent_move_shelf1 1
+24 agent_move_shelf2 1
+24 agent_move_sofa 1
+24 agent_move_table 1
+24 agent_pick_keys 1
+25 agent_move_outside 1
+25 agent_move_shelf1 1
+25 agent_move_shelf2 1
+25 agent_move_sofa 1
+25 agent_move_table 1
+25 agent_pick_keys 1
+26 agent_move_outside 1
+26 agent_move_shelf1 1
+26 agent_move_shelf2 1
+26 agent_move_sofa 1
+26 agent_move_table 1
+26 agent_pick_keys 1
+27 agent_move_outside 1
+27 agent_move_shelf1 1
+27 agent_move_shelf2 1
+27 agent_move_sofa 1
+27 agent_move_table 1
+27 agent_pick_keys 1
+28 agent_move_outside 1
+28 agent_move_shelf1 1
+28 agent_move_shelf2 1
+28 agent_move_sofa 1
+28 agent_move_table 1
+28 agent_pick_keys 1
+29 agent_move_outside 1
+29 agent_move_shelf1 1
+29 agent_move_shelf2 1
+29 agent_move_sofa 1
+29 agent_move_table 1
+29 agent_pick_keys 1

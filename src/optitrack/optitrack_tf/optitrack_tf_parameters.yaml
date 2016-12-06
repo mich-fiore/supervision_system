@@ -1,0 +1,7 @@
+---
+optitrack:
+  topic_base: /optitrack/bodies/
+  rigid_bodies:
+    - human1_head  
+    # - human1_torso
+    - human1_hand

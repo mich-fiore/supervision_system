@@ -1,0 +1,7 @@
+<launch>
+	<rosparam command="load" file="$(find demo_handover)/simulation_parameters.yaml" />
+	<include file="$(find tf_joypad)/launch/launch_joypad.launch" />
+	<!-- <include file="$(find demo_handover)/launch/demo_handover.launch" /> -->
+
+
+</launch>

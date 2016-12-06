@@ -1,0 +1,113 @@
+---
+simulation:
+  simulated_entities: #list of entities that are simulated
+    - human1
+    - base_link
+    - waterbottle
+    - teabottle
+    - mug
+    - book1
+    - book2
+    - book3
+    - keys
+    - remote
+    - table
+    - sidetable
+    - bathroom
+    - outside
+    - shelf1
+    - shelf2
+    - shelf3
+    - sofa
+    - livingroom
+  starting_position: #starting positions of each entity described above
+    human1:
+      x: 0
+      y: 0
+      z: 0
+    base_link:
+      x: 0
+      y: 0
+      z: 0
+    waterbottle:
+      x: 0
+      y: -0.7
+      z: 0
+    teabottle:
+      x: -0.8
+      y: 0.8
+      z: 0
+    table:
+      x: 0
+      y: -1
+      z: 0
+    sidetable:
+      x: -1
+      y: 2
+      z: 0   
+    mug:
+      x: -0.9
+      y: 1.8
+      z: 0   
+    book1:
+      x: 0.7
+      y: -0.8
+      z: 0
+    book2:
+      x: 1
+      y: -0.8
+      z: 0
+    book3:
+      x: 0.8
+      y: 0.8
+      z: 0
+    keys:
+      x: -0.8
+      y: 1.1
+      z: 0
+    remote:
+      x: -0.7
+      y: 2.0
+      z: 0
+    bathroom:
+      x: -2
+      y: 0
+      z: 0
+    outside:
+      x: 2
+      y: 0
+      z: 0
+    shelf1:
+      x: 1
+      y: -1
+      z: 0
+    shelf2:
+      x: 1
+      y: 1
+      z: 0
+    shelf3:
+      x: -1
+      y: 1
+      z: 0
+    sofa:
+      x: 0
+      y: 2
+      z: 0  
+    livingroom:
+      x: 0
+      y: 0
+      z: 0
+  movable: #true if an entity can move
+    human1: true
+    base_link: false
+    waterbottle: false
+    teabottle: false
+    mug: false
+    table: false
+    sidetable: false
+    bathroom: false
+    outside: false
+    shelf1: false
+    shelf2: false
+    shelf3: false
+    sofa: false

@@ -1,0 +1,27 @@
+---
+situation_assessment:
+    ring_buffer_length: 10
+    use_orientation: false
+    track_robot: true
+    track_agents: true
+    track_objects: true
+    track_groups: false
+    tf_bridge:
+        track_robot: true
+        track_agents: true
+        track_objects: true
+        track_groups: false
+    human_names:
+        - human1
+        # - human2
+    body_parts:
+        - head
+        - hand
+        # - torso
+    locations:
+        - handover_location
+    locations_depth:
+        handover_location: 1
+    simulation: true
+    robot_name: PR2_ROBOT
+

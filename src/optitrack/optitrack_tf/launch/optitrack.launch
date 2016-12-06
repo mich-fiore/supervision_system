@@ -1,0 +1,9 @@
+<launch>
+    <master auto="start"/>
+
+    <!-- start receive_optitrack -->
+    <arg name="mcast" default="239.192.168.30" />
+    <node pkg="optitrack_person" type="receive_optitrack.sh"
+        args="$(find optitrack_person)/scripts/connect_optitrack.tcl $(arg mcast)"
+        name="receive_optitrack" output="screen" required="true"/>
+</launch>
