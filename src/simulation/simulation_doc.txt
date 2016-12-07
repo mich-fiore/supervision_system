@@ -1,0 +1,19 @@
+Purpose: This layer introduces a way to move tf frames in the environment using a Joypad or a
+Keyboard
+
+
+ToDo:
+At the moment the Keyboard interface has more functions than the Joypad. Both should be set at the same. The package name tf_joypad is not correct also, since both keyboard and joypad are supported.
+
+Dependencies:
+None
+
+Launch:
+tf_joypad/launch/launch_joypad.launch
+
+Advertised Topics:
+None
+
+Advertised Services:
+ /situation_assessment/put_object_in_hand simulates an agent taking an object
+ /situation_assessment/place_object simulates an agent placing an object

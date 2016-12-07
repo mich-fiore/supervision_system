@@ -47,15 +47,6 @@ IntentionRecognition::IntentionRecognition(ros::NodeHandle node_handle):node_han
 		}
 	}
 	node_handle.getParam("/situation_assessment/human_names",humans_);
-	// for (string h: humans_) {
-	// 	std::vector<string> human_move_actions;
-	// 	for (string l:locations_) {
-	// 		if (l!="this") {
-	// 			human_move_actions.push_back(h+"_move_"+l);
-	// 		}
-	// 	}
-	// 	move_actions_[h]=human_move_actions;
-	// }
 
 	action_sub_=node_handle.subscribe("/situation_assessment/human_executable_actions",1000,
 		&IntentionRecognition::actionCallback,this);
@@ -77,11 +68,7 @@ IntentionRecognition::IntentionRecognition(ros::NodeHandle node_handle):node_han
 			namepub,1000);
 		pub_intentions_plot_[i]=pub;
 	}
-	// tea_pub_=node_handle_.advertise<situation_assessment_actions_msgs::IntentionProb>("intention_prob",1000);
 	ROS_INFO("INTENTION_RECOGNITION - running");
-	
-	// ros::ServiceServer start_monitor_server=node_handle.advertiseService("situation_assessment/monitor_intentions",startMonitoring);
-	// ros::ServiceServer stop_monitor_server=node_handle.advertiseService("situation_assessment/stop_monitor_intentions",stopMonitoring);
 
 	// ROS_INFO("INTENTION_RECOGNITION - advertising services");
 

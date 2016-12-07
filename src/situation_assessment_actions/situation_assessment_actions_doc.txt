@@ -1,0 +1,18 @@
+Purpose: This layer presents functionalities to monitor human actions and infer their intentions
+
+
+Dependencies:
+situation_assessment layer
+action_management layer
+
+Launch:
+human_action_monitor/launch/human_action_monitor.launch
+
+Advertised Topics:
+situation_assessment/human_executable_actions  actions that agents can execute
+/situation_assessment/humans_executed_actions actions executed by agents
+situation_assessment/agents_inference  probability of actions and intentions by agents
+intention_name    (one for each tracked intention) probability of an intention for the first agent (used for plotting)
+
+Advertised Services:
+None 

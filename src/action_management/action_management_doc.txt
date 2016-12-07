@@ -1,0 +1,24 @@
+Purpose:
+This layer supports action management in the supervision system. In general when creating
+a new scenario developers can introduce their own actions by importing the action_nodes library and extending
+- the Action class for actions that needs only to be monitored
+- The ExecutableAction class for actions that need also to be executed and have special mechanisms for execution
+- The BasicAction class for actions that need also to be executed and that simply call the MotionPlanner 
+
+Each action provides services to check its preconditions and to set its postconditions. Using this mechanism we can add new actions to the system without recompiling or changing the situation_assessment_actions layer.
+
+Dependencies:
+None
+
+Advertised Topics:
+None
+
+Launch:
+None
+
+Advertised Services:
+action_management/actions/$action_name$/getParameters    gets the parameters of the action
+action_management/actions/$action_name$/checkPreconditions checks if the action's preconditions are true
+action_management/actions/$action_name$/setPostconditions sets the action postconditions
+
+where $action_name$ is the name of the action

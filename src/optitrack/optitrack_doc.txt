@@ -1,0 +1,18 @@
+Purpose:
+This layer supports the optitrack motion capture system. If an optitrack system is running
+under GenoM, it reads data from topics, depending on the 
+    optitrack/topic_base
+    optitrack/rigid_bodies
+parameters, and publishes them in tf.
+
+Dependencies:
+None
+
+Launch:
+optitrack_tf/launch/optitrack_tf.launch
+
+Advertised Topics:
+None
+
+Advertised Services:
+None
